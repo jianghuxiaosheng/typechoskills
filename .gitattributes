@@ -1,0 +1,10 @@
+# 统一文本文件行尾为 LF，避免 CRLF/LF 混入库
+* text=auto eol=lf
+
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.bmp binary
+*.webp binary
+*.avif binary
