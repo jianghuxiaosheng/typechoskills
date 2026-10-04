@@ -1,0 +1,18 @@
+# Node / 依赖与产物（脚本本身零依赖，以下仅为本地运行时防护）
+node_modules/
+npm-debug.log*
+*.log
+
+# 编辑器 / IDE
+.vscode/
+.idea/
+*.swp
+
+# 操作系统杂项
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 临时文件
+*.tmp
+*.bak
